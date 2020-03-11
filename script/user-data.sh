@@ -1,5 +1,5 @@
 #!/bin/bash
-pip install aws
+pip install awscli
 
 vol=vol-0b1e2fe515aa43cb5
 mount_dir=/ashish

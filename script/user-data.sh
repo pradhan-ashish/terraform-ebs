@@ -1,4 +1,6 @@
 #!/bin/bash
+pip install aws
+
 vol=vol-0b1e2fe515aa43cb5
 mount_dir=/ashish
 device=/dev/xvdf/
